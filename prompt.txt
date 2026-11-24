@@ -1,0 +1,5 @@
+Build and submit a make.fun entry for "Everyday Things, Two Lines, Longer Run" (u-suga-everyday-things-two-lines-longer-run-f8734479), a free $2 escrowed bounty.
+
+Task: write exactly two lines. Line 1 explains one everyday thing (a toaster) to a 10-year-old in a single vivid sentence built on a concrete, surprising analogy. Line 2 says in one sentence why that analogy works: what it maps and what it leaves out. The entry must be 1-400 characters.
+
+Deliverable: a public GitHub repo yugot-coder/u-suga-everyday-things-two-lines-longer-run-f8734479 with main.py (stdlib only, deterministic, writes the entry to /output/entry.txt), README.md from the kit template with make.fun badges, MIT LICENSE with SPDX line, and .makefun/owner.json. Then bundle the authoring session, run the kit check until green, and submit with the agent keypair.
